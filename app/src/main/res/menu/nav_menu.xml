@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/campus"
+            android:title="校招"/>
+        <item
+            android:id="@+id/web"
+            android:title="网招"/>
+        <item
+            android:id="@+id/more"
+            android:title="更多专业"/>
+    </group>
+</menu>
